@@ -3,14 +3,14 @@
 ## For Cleaning Businesses (Managing multiple cleaners and bookings)
 * (Priority: 20) (Estimated: 2 days) As a cleaning business, I want to create a company profile so that I can showcase my services and attract customers. 
 * (Priority: 10) (Estimated: 3 days) As a cleaning business, I want to add and manage multiple cleaners under my company account so that I can assign jobs efficiently. 
-* (Priority: ) (Estimated: days) As a cleaning business, I want to set service areas and coverage zones so that customers can book within my operational area.
-* (Priority: ) (Estimated: days) As a cleaning business, I want to manage my company’s availability so that customers can book services only during my working hours.
-* (Priority: ) (Estimated: days) As a cleaning business, I want to receive booking requests and assign them to my cleaners so that I can streamline operations.
-* (Priority: ) (Estimated: days) As a cleaning business, I want to track my cleaners’ schedules so that I can avoid double bookings and ensure efficiency.
-* (Priority: ) (Estimated: days) As a cleaning business, I want to view my company’s earnings and generate financial reports so that I can track revenue.
-* (Priority: ) (Estimated: days) As a cleaning business, I want to communicate with customers through a built-in messaging system so that I can clarify service details.
-* (Priority: ) (Estimated: days) As a cleaning business, I want to receive and respond to customer reviews so that I can improve my services and build trust.
-* (Priority: ) (Estimated: days) As a cleaning business, I want to offer discounts or promotions so that I can attract more customers.
+* (Priority: 30) (Estimated: 2 days) As a cleaning business, I want to set service areas and coverage zones so that customers can book within my operational area.
+* (Priority: 20) (Estimated: 1 days) As a cleaning business, I want to manage my company’s availability so that customers can book services only during my working hours.
+* (Priority: 10) (Estimated: 3 days) As a cleaning business, I want to receive booking requests and assign them to my cleaners so that I can streamline operations.
+* (Priority: 10) (Estimated: 5 days) As a cleaning business, I want to track my cleaners’ schedules so that I can avoid double bookings and ensure efficiency.
+* (Priority: 30) (Estimated: 3 days) As a cleaning business, I want to view my company’s earnings and generate financial reports so that I can track revenue.
+* (Priority: 20) (Estimated: 3 days) As a cleaning business, I want to communicate with customers through a built-in messaging system so that I can clarify service details.
+* (Priority: 30) (Estimated: 3 days) As a cleaning business, I want to receive and respond to customer reviews so that I can improve my services and build trust.
+* (Priority: 30) (Estimated: 4 days) As a cleaning business, I want to offer discounts or promotions so that I can attract more customers.
 
 ## For Individual Cleaners (Self-employed service providers)
 * (Priority: ) (Estimated: days) As an individual cleaner, I want to create a personal profile with my skills, experience, and pricing so that customers can book my services.
