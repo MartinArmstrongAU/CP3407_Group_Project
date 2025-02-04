@@ -25,13 +25,13 @@
 * (Priority: 30) (Estimated: 1 days) As an individual cleaner, I want to link my business profile to social media so that I can promote my services outside the platform.
 
 ## For Customers (Booking and managing cleaning services)
-* (Priority: ) (Estimated: days) As a customer, I want to create an account so that I can manage my cleaning service bookings.
-* (Priority: ) (Estimated: days) As a customer, I want to search for cleaners or cleaning businesses based on location, availability, and pricing so that I can find the best match.
-* (Priority: ) (Estimated: days) As a customer, I want to view cleaner profiles with ratings and reviews so that I can make an informed decision before booking.
-* (Priority: ) (Estimated: days) As a customer, I want to book a cleaning service for a specific date and time so that I can schedule cleanings at my convenience.
-* (Priority: ) (Estimated: days) As a customer, I want to receive a confirmation email/SMS after booking so that I know my appointment is scheduled.
-* (Priority: ) (Estimated: days) As a customer, I want to cancel or reschedule my booking so that I can adjust my plans when needed.
-* (Priority: ) (Estimated: days) As a customer, I want to track my upcoming appointments so that I don’t forget about them.
-* (Priority: ) (Estimated: days) As a customer, I want to chat with my assigned cleaner so that I can clarify any details or special requests.
-* (Priority: ) (Estimated: days) As a customer, I want to securely make online payments so that I don’t have to deal with cash transactions.
-* (Priority: ) (Estimated: days) As a customer, I want to leave a review and rate the cleaner after service completion so that other users can benefit from my feedback.
+* (Priority: 20) (Estimated: 2 days) As a customer, I want to create an account so that I can manage my cleaning service bookings.
+* (Priority: 10) (Estimated: 4 days) As a customer, I want to search for cleaners or cleaning businesses based on location, availability, and pricing so that I can find the best match.
+* (Priority: 10) (Estimated: 3 days) As a customer, I want to view cleaner profiles with ratings and reviews so that I can make an informed decision before booking.
+* (Priority: 10) (Estimated: 5 days) As a customer, I want to book a cleaning service for a specific date and time so that I can schedule cleanings at my convenience.
+* (Priority: 30) (Estimated: 4 days) As a customer, I want to receive a confirmation email/SMS after booking so that I know my appointment is scheduled.
+* (Priority: 30) (Estimated: 2 days) As a customer, I want to cancel or reschedule my booking so that I can adjust my plans when needed.
+* (Priority: 30) (Estimated: 1 day) As a customer, I want to track my upcoming appointments so that I don’t forget about them.
+* (Priority: 20) (Estimated: 1 day) As a customer, I want to chat with my assigned cleaner so that I can clarify any details or special requests.
+* (Priority: 20) (Estimated: 3 days) As a customer, I want to securely make online payments so that I don’t have to deal with cash transactions.
+* (Priority: 30) (Estimated: 3 days) As a customer, I want to leave a review and rate the cleaner after service completion so that other users can benefit from my feedback.
