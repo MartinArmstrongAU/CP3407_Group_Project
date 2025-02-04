@@ -22,7 +22,7 @@
 * (Priority: ) (Estimated: days) As an individual cleaner, I want to chat with customers before the appointment so that I can understand their specific cleaning needs.
 * (Priority: ) (Estimated: days) As an individual cleaner, I want to request customer feedback after completing a job so that I can improve my services and attract more clients.
 * (Priority: ) (Estimated: days) As an individual cleaner, I want to see my total earnings and payment history so that I can track my income.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to link my business profile to social media so that I can promote my services outside the platform.
+* (Priority: 30) (Estimated: 1 days) As an individual cleaner, I want to link my business profile to social media so that I can promote my services outside the platform.
 
 ## For Customers (Booking and managing cleaning services)
 * (Priority: ) (Estimated: days) As a customer, I want to create an account so that I can manage my cleaning service bookings.
