@@ -1,35 +1,27 @@
-For Cleaning Businesses (Managing multiple cleaners and bookings)
-As a cleaning business, I want to create a company profile so that I can showcase my services and attract customers.
-As a cleaning business, I want to add and manage multiple cleaners under my company account so that I can assign jobs efficiently.
-As a cleaning business, I want to set service areas and coverage zones so that customers can book within my operational area.
-As a cleaning business, I want to manage my company’s availability so that customers can book services only during my working hours.
-As a cleaning business, I want to receive booking requests and assign them to my cleaners so that I can streamline operations.
-As a cleaning business, I want to track my cleaners’ schedules so that I can avoid double bookings and ensure efficiency.
-As a cleaning business, I want to view my company’s earnings and generate financial reports so that I can track revenue.
-As a cleaning business, I want to communicate with customers through a built-in messaging system so that I can clarify service details.
-As a cleaning business, I want to receive and respond to customer reviews so that I can improve my services and build trust.
-As a cleaning business, I want to offer discounts or promotions so that I can attract more customers.
+User Stories for "MyClean"
 
-For Individual Cleaners (Self-employed service providers)
-As an individual cleaner, I want to create a personal profile with my skills, experience, and pricing so that customers can book my services.
-As an individual cleaner, I want to set my availability and working hours so that customers can only book me when I am free.
-As an individual cleaner, I want to accept or decline booking requests so that I can manage my workload.
-As an individual cleaner, I want to receive instant notifications for new bookings so that I can respond quickly.
-As an individual cleaner, I want to track my completed and upcoming jobs so that I can stay organized.
-As an individual cleaner, I want to securely receive payments through the platform so that I don’t have to handle cash.
-As an individual cleaner, I want to chat with customers before the appointment so that I can understand their specific cleaning needs.
-As an individual cleaner, I want to request customer feedback after completing a job so that I can improve my services and attract more clients.
-As an individual cleaner, I want to see my total earnings and payment history so that I can track my income.
-As an individual cleaner, I want to link my business profile to social media so that I can promote my services outside the platform.
+User (Customer) Stories:
+As a customer, I want to create an account so that I can manage my cleaning bookings.
+As a customer, I want to log in securely so that only I can access my account.
+As a customer, I want to search for available cleaners based on location and availability so that I can find a suitable service.
+As a customer, I want to book a cleaning service so that I can schedule a cleaning at my preferred time.
+As a customer, I want to receive a confirmation notification (email/SMS) after booking so that I know my booking is successful.
+As a customer, I want to view my upcoming and past bookings so that I can track my cleaning history.
+As a customer, I want to reschedule or cancel a booking so that I can adjust my plans if needed.
+As a customer, I want to leave a review and rate the cleaner so that other customers can make informed decisions.
+As a customer, I want to make payments online securely so that I can pay for my cleaning service without hassle.
+As a customer, I want to receive notifications/reminders about my upcoming bookings so that I don’t forget about them.
 
-For Customers (Booking and managing cleaning services)
-As a customer, I want to create an account so that I can manage my cleaning service bookings.
-As a customer, I want to search for cleaners or cleaning businesses based on location, availability, and pricing so that I can find the best match.
-As a customer, I want to view cleaner profiles with ratings and reviews so that I can make an informed decision before booking.
-As a customer, I want to book a cleaning service for a specific date and time so that I can schedule cleanings at my convenience.
-As a customer, I want to receive a confirmation email/SMS after booking so that I know my appointment is scheduled.
-As a customer, I want to cancel or reschedule my booking so that I can adjust my plans when needed.
-As a customer, I want to track my upcoming appointments so that I don’t forget about them.
-As a customer, I want to chat with my assigned cleaner so that I can clarify any details or special requests.
-As a customer, I want to securely make online payments so that I don’t have to deal with cash transactions.
-As a customer, I want to leave a review and rate the cleaner after service completion so that other users can benefit from my feedback.
+User (Cleaner/Service Provider) Stories:
+As a cleaner, I want to create a profile with my availability, services, and rates so that customers can book my services.
+As a cleaner, I want to accept or decline booking requests so that I can manage my schedule effectively.
+As a cleaner, I want to receive notifications about new bookings so that I can respond promptly.
+As a cleaner, I want to view my earnings and completed jobs so that I can track my income.
+As a cleaner, I want to update my availability so that customers can book me at the right times.
+As a cleaner, I want to receive reviews and ratings from customers so that I can build credibility and attract more bookings.
+
+Admin/Business Stories:
+As an admin, I want to manage user accounts (customers and cleaners) so that I can ensure smooth operation of the platform.
+As an admin, I want to monitor transactions and payments so that I can resolve any payment disputes.
+As an admin, I want to generate reports on bookings, earnings, and user activity so that I can analyze business performance.
+As an admin, I want to handle customer complaints and support requests so that I can maintain customer satisfaction.
