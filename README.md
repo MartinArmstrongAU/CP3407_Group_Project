@@ -17,10 +17,9 @@ The following is the list of items, which are required to be completed.
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.
-1. Alex Williams (alex.williams1@my.jcu.edu.au) - https://github.com/AlexWilliams1004
-2. Joshua Finch - https://github.com/JoshuaFinch27
-3. Martin Armstrong - martin.armstrong@my.jcu.edu.au - https://github.com/MartinArmstrongAU
-4. Name 4
+1. Joshua Finch - https://github.com/JoshuaFinch27
+2. Martin Armstrong - martin.armstrong@my.jcu.edu.au - https://github.com/MartinArmstrongAU
+3. Name 3
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
