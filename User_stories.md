@@ -13,16 +13,16 @@
 * (Priority: 30) (Estimated: 4 days) As a cleaning business, I want to offer discounts or promotions so that I can attract more customers.
 
 ## For Individual Cleaners (Self-employed service providers)
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to create a personal profile with my skills, experience, and pricing so that customers can book my services.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to set my availability and working hours so that customers can only book me when I am free.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to accept or decline booking requests so that I can manage my workload.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to receive instant notifications for new bookings so that I can respond quickly.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to track my completed and upcoming jobs so that I can stay organized.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to securely receive payments through the platform so that I don’t have to handle cash.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to chat with customers before the appointment so that I can understand their specific cleaning needs.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to request customer feedback after completing a job so that I can improve my services and attract more clients.
-* (Priority: ) (Estimated: days) As an individual cleaner, I want to see my total earnings and payment history so that I can track my income.
-* (Priority: 30) (Estimated: 1 days) As an individual cleaner, I want to link my business profile to social media so that I can promote my services outside the platform.
+* (Priority: 10) (Estimated: 1 day) As an individual cleaner, I want to create a personal profile with my skills, experience, and pricing so that customers can book my services.
+* (Priority: 10) (Estimated: 1 day) As an individual cleaner, I want to set my availability and working hours so that customers can only book me when I am free.
+* (Priority: 10) (Estimated: 2 days) As an individual cleaner, I want to accept or decline booking requests so that I can manage my workload.
+* (Priority: 20) (Estimated: 2 days) As an individual cleaner, I want to receive instant notifications for new bookings so that I can respond quickly.
+* (Priority: 20) (Estimated: 2 days) As an individual cleaner, I want to track my completed and upcoming jobs so that I can stay organized.
+* (Priority: 30) (Estimated: 3 days) As an individual cleaner, I want to securely receive payments through the platform so that I don’t have to handle cash.
+* (Priority: 30) (Estimated: 2 days) As an individual cleaner, I want to chat with customers before the appointment so that I can understand their specific cleaning needs.
+* (Priority: 30) (Estimated: 1 day) As an individual cleaner, I want to request customer feedback after completing a job so that I can improve my services and attract more clients.
+* (Priority: 10) (Estimated: 2 days) As an individual cleaner, I want to see my total earnings and payment history so that I can track my income.
+* (Priority: 30) (Estimated: 1 day) As an individual cleaner, I want to link my business profile to social media so that I can promote my services outside the platform.
 
 ## For Customers (Booking and managing cleaning services)
 * (Priority: 20) (Estimated: 2 days) As a customer, I want to create an account so that I can manage my cleaning service bookings.
