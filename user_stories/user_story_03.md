@@ -5,8 +5,9 @@ No previous versions
 No changes yet
 
 ## Estimation: 2 days
-* Alex (Has since left the project): 2 days (estimated before iteration-1)
+* Alex (has since left the project): 2 days (estimated before iteration-1)
 * Joshua: 3 days (estimated before iteration-1)
+* Martin: 3 days (estimated before iteration-1)
 
 ## Assumptions (if any):
 * No assumptions yet
