@@ -4,7 +4,7 @@ No previous versions
 ## Priority: 30 (Project planning BEFORE iteration-1)
 No changes yet
 
-## Estimation: 3 days
+## Estimation: 2 days
 * Martin: 3 days (estimated before iteration-1)
 * Joshua: 1 days (estimated before iteration-1)
 

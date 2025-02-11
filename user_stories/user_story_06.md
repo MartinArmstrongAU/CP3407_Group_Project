@@ -4,7 +4,7 @@ No previous versions
 ## Priority: 10 (Project planning BEFORE iteration-1)
 No changes yet
 
-## Estimation: 5 days
+## Estimation: 4 days
 * Alex (has since left the project): 5 days (estimated before iteration-1)
 * Joshua: 3 days (estimated before iteration-1)
 * Martin: 4 days (estimated before iteration-1)
