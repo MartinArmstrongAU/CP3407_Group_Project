@@ -31,7 +31,7 @@
 * (Title: View Company Earnings (as a Cleaning Business)) (Priority: 30) (Estimate: 3 days)
 * (Title: Receive Customer Reviews (as a Cleaning Business)) (Priority: 30) (Estimate: 3 days)
 * (Title: Offer Specials (as a Cleaning Business)) (Priority: 30) (Estimate: 4 days)
-* (Title: Receive Payments (as an Individual Cleaner)) (Priority: 30) (Estimate: 3 days)
+* (Title: Receive Online Payments (as an Individual Cleaner)) (Priority: 30) (Estimate: 3 days)
 * (Title: Chat With Customers (as an Individual Cleaner)) (Priority: 30) (Estimate: 3 days)
 * (Title: Request Customer Feedback (as an Individual Cleaner)) (Priority: 30) (Estimate: 1 day)
 * (Title: Link Profile to Social Media (as an Individual Cleaner)) (Priority: 30) (Estimate: 2 days)
