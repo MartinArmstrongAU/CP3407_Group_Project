@@ -1,4 +1,4 @@
-# User story title: Receive Instant Notifications (as an Individual Cleaner)
+# User story title: Receive Notifications (as an Individual Cleaner)
 No previous versions
 
 ## Priority: 20 (Project planning BEFORE iteration-1)
