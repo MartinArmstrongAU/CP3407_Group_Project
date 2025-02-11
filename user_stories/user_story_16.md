@@ -1,5 +1,6 @@
-# User story title: Receive Payments (as an Individual Cleaner)
-No previous versions
+# User story title: Receive Online Payments (as an Individual Cleaner)
+User story title-v1: Receive Payments (as an Individual Cleaner)
+User story title-v2: Receive Online Payments (as an Individual Cleaner)
 
 ## Priority: 30 (Project planning BEFORE iteration-1)
 No changes yet
@@ -11,5 +12,6 @@ No changes yet
 ## Assumptions (if any):
 * No assumptions yet
 
-## Description: As an individual cleaner, I want to securely receive payments through the platform so that I don’t have to handle cash.
+## Description: As an individual cleaner, I want to securely receive online payments through the platform so that I don’t have to handle cash.
 Description-v1: As an individual cleaner, I want to securely receive payments through the platform so that I don’t have to handle cash.
+Description-v2: As an individual cleaner, I want to securely receive online payments through the platform so that I don’t have to handle cash.

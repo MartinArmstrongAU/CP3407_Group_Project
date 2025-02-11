@@ -18,7 +18,7 @@
 * (Title: Respond to Booking Requests - as an Individual Cleaner) (Priority: 10) (Estimate: 2 days)
 * (Title: Receive Notifications - as an Individual Cleaner) (Priority: 20) (Estimate: 2.5 days)
 * (Title: Track Jobs - as an Individual Cleaner) (Priority: 20) (Estimate: 2.5 days)
-* (Title: Receive Payments - as an Individual Cleaner) (Priority: 30) (Estimate: 3 days)
+* (Title: Receive Online Payments - as an Individual Cleaner) (Priority: 30) (Estimate: 3 days)
 * (Title: Chat With Customers - as an Individual Cleaner) (Priority: 30) (Estimate: 3 days)
 * (Title: Request Customer Feedback - as an Individual Cleaner) (Priority: 30) (Estimate: 1 day)
 * (Title: See Payment History - as an Individual Cleaner) (Priority: 10) (Estimate: 2.5 days)
