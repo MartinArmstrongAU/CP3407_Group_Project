@@ -1,5 +1,3 @@
-* (Priority: 20) (Estimated: 2 days) As an individual cleaner, I want to receive instant notifications for new bookings so that I can respond quickly.
-
 # User story title: Receive Instant Notifications (as an Individual Cleaner)
 No previous versions
 
