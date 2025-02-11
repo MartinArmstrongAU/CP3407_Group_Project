@@ -1,4 +1,4 @@
-# User story title: Securely Receive Payments (as an Individual Cleaner)
+# User story title: Receive Payments (as an Individual Cleaner)
 No previous versions
 
 ## Priority: 30 (Project planning BEFORE iteration-1)
