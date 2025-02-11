@@ -1,5 +1,3 @@
-* (Priority: 10) (Estimated: 5 days) As a cleaning business, I want to track my cleaners’ schedules so that I can avoid double bookings and ensure efficiency.
-
 # User story title: Track Cleaners' Schedules (as a Cleaning Business)
 No previous versions
 
