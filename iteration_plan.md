@@ -1,5 +1,7 @@
+# Iteration Plan for "MyClean"
+
 ***
-# First Iteration (20 working days):
+## First Iteration (20 working days):
 * (Title: Receive Booking Requests - as a Cleaning Business) (Priority: 10) (Estimate: 3 days)
 * (Title: Track Cleaners' Schedules - as a Cleaning Business) (Priority: 10) (Estimate: 4 days)
 * (Title: Create Cleaner Profile - as an Individual Cleaner) (Priority: 10) (Estimate: 1.5 days)
@@ -10,7 +12,7 @@
 * (Title: Book Cleaning Service - as a Customer) (Priority: 10) (Estimate: 3.5 days)
 
 ***
-# Second Iteration (20 working days):
+## Second Iteration (20 working days):
 * (Title: Manage Multiple Cleaners - as a Cleaning Business) (Priority: 10) (Estimate: 3 days)
 * (Title: Search for Cleaners - as a Customer) (Priority: 10) (Estimate: 3 days)
 * (Title: Create Company Profile - as a Cleaning Business) (Priority: 20) (Estimate: 2 days)
@@ -21,9 +23,8 @@
 * (Title: Chat With Cleaners - as a Customer) (Priority: 20) (Estimate: 1.5 days)
 * (Title: Make Online Payments - as a Customer) (Priority: 20) (Estimate: 3 days)
 
-
 ***
-# Future Iteration/s (Leftover User Stories - 33 working days):
+## Future Iteration/s (leftover user stories - 33 working days):
 * (Title: Communicate With Customers - as a Cleaning Business) (Priority: 20) (Estimate: 3 days)
 * (Title: Set Service Areas - as a Cleaning Business) (Priority: 30) (Estimate: 3 days)
 * (Title: View Company Earnings - as a Cleaning Business) (Priority: 30) (Estimate: 3 days)
