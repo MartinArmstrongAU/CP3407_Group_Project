@@ -6,6 +6,7 @@ No changes yet
 
 ## Estimation: 5 days
 * Alex (Has since left the project): 5 days (estimated before iteration-1)
+* Joshua: 3 days (estimated before iteration-1)
 
 ## Assumptions (if any):
 * No assumptions yet

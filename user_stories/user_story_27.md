@@ -6,6 +6,7 @@ No changes yet
 
 ## Estimation: 1 day
 * Martin: 1 day (estimated before iteration-1)
+* Joshua: 1 day (estimated before iteration-1)
 
 ## Assumptions (if any):
 * No assumptions yet
