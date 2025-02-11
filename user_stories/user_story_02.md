@@ -12,5 +12,5 @@ No changes yet
 ## Assumptions (if any):
 * No assumptions yet
 
-## Description: As a cleaning business, I want to add and manage multiple cleaners under my company account so that I can assign jobs efficiently. 
-Description-v1: As a cleaning business, I want to add and manage multiple cleaners under my company account so that I can assign jobs efficiently. 
+## Description: As a cleaning business, I want to add and manage multiple cleaners under my company account so that I can assign jobs efficiently.
+Description-v1: As a cleaning business, I want to add and manage multiple cleaners under my company account so that I can assign jobs efficiently.
