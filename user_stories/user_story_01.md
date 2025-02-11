@@ -1,4 +1,4 @@
-# User story title: Create Company Profile
+# User story title: Create Company Profile (as a Cleaning Business)
 No previous versions
 
 ## Priority: 20 (Project planning BEFORE iteration-1)
