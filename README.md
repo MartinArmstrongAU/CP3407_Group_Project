@@ -29,7 +29,7 @@ Checklist/TODOs:
 - [x] User stories are correct: see p39 - DONE
 - [x] Must have more user stories than fits into iterations 1 and 2. To practice the priority. - DONE
 - [x] Create a [user stories summary](./user_stories_summary.md) with priorities and estimates - DONE
-- [x] Create an [iteration plan](./iteration_plan.md) for iterations 1 and 2 - DONE
+- [x] Create an [iteration plan](./initial_iteration_plan) for iterations 1 and 2 - DONE
 - [x] Create a GitHub project (kanban) board for iteration-1 - DONE
 - [x] Mark all user stories as "todo" - DONE
 - [x] Update this README file - DONE
