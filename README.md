@@ -5,7 +5,7 @@ How to edit this: test-2025
 
 # cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
 
-This a project assignment template for CP3407. 
+This is a project assignment template for CP3407. 
 The following is the list of items, which are required to be completed.
 
 ## How to submit [You may delete this before submitting]
@@ -34,7 +34,7 @@ Checklist/TODOs:
 - [x] Mark all user stories as "todo" - DONE
 - [x] Update this README file - DONE
 
-Total: 73 working days 
+Total: 146 working days 
 
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
 
