@@ -17,7 +17,17 @@ Checklist:
 
 User stories or tasks (see chapter 4):
 1. [user story or task title](./user_stories/user_story_00_template.md), priority XX, YY days 
-2. ...
+- User Story 21:
+  * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
+  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members
+  * Task 3. Create initial accounts to test features + provide examples for client.
+- User Story 11: 
+  * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
+  * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+User Story 01:
+  * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
+    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated 
+    cleaners).
 
 In progress:
 * ...
