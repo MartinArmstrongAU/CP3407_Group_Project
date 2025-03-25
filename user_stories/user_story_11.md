@@ -18,9 +18,8 @@ Current Estimation: 3 days (estimated after removing assumptions before iteratio
 Description-v1: As an individual cleaner, I want to create a personal profile with my skills, experience, and pricing so that customers can book my services.
 
 ## Tasks, see chapter 4.
-
-1. Task 1, Estimation XX days
-2. ...
+Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in. Estimation 1 day.
+Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types. Estimation 1 day.
 
 
 # UI Design:
