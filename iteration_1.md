@@ -40,8 +40,8 @@ Completed:
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
+* 4 weeks left, 40 days of estimated amount of work 
+* 2 weeks left, 40 days
+* 1 weeks left, 40 days
+* 0 weeks left, 30 days
 * Actual Velocity: ?? 
