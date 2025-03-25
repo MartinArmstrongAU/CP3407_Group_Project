@@ -17,3 +17,19 @@ Current Estimation: 4 days (estimated after removing assumptions before iteratio
 
 ## Description: As a cleaning business, I want to create a company profile so that I can showcase my services and attract customers.
 Description-v1: As a cleaning business, I want to create a company profile so that I can showcase my services and attract customers.
+
+## Tasks, see chapter 4.
+
+1. Task 1, Estimation XX days
+2. ...
+
+
+# UI Design:
+* (New, not in the textbook) 
+* Many user stories are connected to a User interface.
+* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+
+# Completed:
+* (New, not in the textbook) 
+* Insert screenshots of completed. 
+* If you have multiple versions (changes between iterations), show them all.
