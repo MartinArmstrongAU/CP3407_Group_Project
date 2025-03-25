@@ -13,11 +13,11 @@ she will contribute about 30% which is why we increased the velocity by 30% from
 
 
 ## First Iteration (20 calendar days = 40 working days):
-1. - [ ] [User Story 11:](./user_stories/user_story_11.md)
+1. - [x] [User Story 11:](./user_stories/user_story_11.md)
 (Title: Create Cleaner Profile - as an Individual Cleaner) (Priority: 10) (Estimate: 3 days) - DONE
-2. - [ ] [User Story 01:](./user_stories/user_story_01.md)
+2. - [x] [User Story 01:](./user_stories/user_story_01.md)
 (Title: Create Company Profile - as a Cleaning Business) (Priority: 20) (Estimate: 4 days) - DONE
-3. - [ ] [User Story 21:](./user_stories/user_story_21.md)
+3. - [x] [User Story 21:](./user_stories/user_story_21.md)
 (Title: Create an Account - as a Customer) (Priority: 20) (Estimate: 3 days) - DONE
 4. - [ ] [User Story 23:](./user_stories/user_story_23.md)
 (Title: View Cleaner Profiles - as a Customer) (Priority: 10) (Estimate: 4 days) - TODO
