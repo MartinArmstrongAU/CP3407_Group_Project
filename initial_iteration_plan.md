@@ -9,7 +9,7 @@ in our iteration * our team's first pass velocity.
 * NOTE: We are aware that we are supposed to start with an initial first pass velocity of 0.7 (instead of 1.0), however,
 we are assuming and expecting that a third working developer (Cobey Smith) is going to join our team (and contribute) at
 some point during the first iteration (but we are not sure exactly when and as a result, we have guessed/estimated that 
-she will contribute about 30% which is why we increased the velocity by 30% from 0.7 to 1.0).
+she will contribute about 30% which is why we increased the initial velocity by 30% from 0.7 to 1.0).
 
 
 ## First Iteration (20 calendar days = 40 working days):
