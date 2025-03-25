@@ -4,8 +4,8 @@
 
 ## Second Iteration Velocity:
 * The amount of work days that our team can handle in one iteration = the number of people on our team * 20 working days
-in our iteration * our team's first pass velocity.
-* The amount of work days that our team can handle in one iteration = 2 * 20 * 1.0 = 40 working days.
+in our iteration * our team's velocity.
+* The amount of work days that our team can handle in one iteration = 2 * 20 * 0.25 = 10 working days.
 
 ## User Stories Completed in Iteration 1:
 1. - [x] [User Story 11:](./user_stories/user_story_11.md)
@@ -30,7 +30,7 @@ in our iteration * our team's first pass velocity.
 (Title: Search for Cleaners - as a Customer) (Priority: 10) (Estimate: 6 days) - TODO
 
 ***
-## Initial Expected User Stories for Iteration 2 (20 calendar days = 40 working days):
+## Initial Expected User Stories for Iteration 2 (20 calendar days = 10 working days):
 1. - [ ] [User Story 02:](./user_stories/user_story_02.md)
 (Title: Manage Multiple Cleaners - as a Cleaning Business) (Priority: 10) (Estimate: 6 days) - TODO
 2. - [ ] [User Story 06:](./user_stories/user_story_06.md)
@@ -48,13 +48,16 @@ in our iteration * our team's first pass velocity.
 8. - [ ] [User Story 28:](./user_stories/user_story_28.md)
 (Title: Chat With Cleaners - as a Customer) (Priority: 20) (Estimate: 3 days) - TODO
 
-## Refactored User Stories for Iteration 2(__ calendar days = __ working days):
+## Refactored User Stories for Iteration 2(40 calendar days = 10 working days):
 1. - [ ] [User Story 23:](./user_stories/user_story_23.md)
 (Title: View Cleaner Profiles - as a Customer) (Priority: 10) (Estimate: 4 days) - TODO
-2. - [ ] [User Story 12:](./user_stories/user_story_12.md)
-(Title: Set Availability - as an Individual Cleaner) (Priority: 10) (Estimate: 3 days) - TODO
-3. - [ ] [User Story 05:](./user_stories/user_story_05.md)
+2. - [ ] [User Story 05:](./user_stories/user_story_05.md)
 (Title: Receive Booking Requests - as a Cleaning Business) (Priority: 10) (Estimate: 6 days) - TODO
+
+***
+## Future Iteration/s (leftover user stories = 66 working days):
+3. - [ ] [User Story 12:](./user_stories/user_story_12.md)
+(Title: Set Availability - as an Individual Cleaner) (Priority: 10) (Estimate: 3 days) - TODO
 4. - [ ] [User Story 24:](./user_stories/user_story_24.md)
 (Title: Book Cleaning Service - as a Customer) (Priority: 10) (Estimate: 7 days) - TODO
 5. - [ ] [User Story 13:](./user_stories/user_story_13.md)
@@ -77,11 +80,6 @@ in our iteration * our team's first pass velocity.
 (Title: Make Online Payments - as a Customer) (Priority: 20) (Estimate: 6 days) - TODO
 14. - [ ] [User Story 28:](./user_stories/user_story_28.md)
 (Title: Chat With Cleaners - as a Customer) (Priority: 20) (Estimate: 3 days) - TODO
-
-
-
-***
-## Future Iteration/s (leftover user stories = 66 working days):
 * - [ ] [User Story 08:](./user_stories/user_story_08.md)
 (Title: Communicate With Customers - as a Cleaning Business) (Priority: 20) (Estimate: 6 days) - TODO
 * - [ ] [User Story 03:](./user_stories/user_story_03.md)
