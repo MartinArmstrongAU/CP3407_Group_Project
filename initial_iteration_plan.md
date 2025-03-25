@@ -5,7 +5,7 @@
 ## First Iteration Velocity:
 * The amount of work days that our team can handle in one iteration = the number of people on our team * 20 working days
 in our iteration * our team's first pass velocity.
-* The amount of work days that our team can handle in one iteration = 2 * 20 * 1.0 = 40 working days
+* The amount of work days that our team can handle in one iteration = 2 * 20 * 1.0 = 40 working days.
 * NOTE: We are aware that we are supposed to start with an initial first pass velocity of 0.7 (instead of 1.0), however,
 we are assuming and expecting that a third working developer (Cobey Smith) is going to join our team (and contribute) at
 some point during the first iteration (but we are not sure exactly when and as a result, we have guessed/estimated that 
