@@ -45,3 +45,22 @@ Update this at least once per week
 * 1 weeks left, 40 days
 * 0 weeks left, 30 days
 * Actual Velocity: ?? 
+
+#### How to calculate actual velocity:
+E1 = Estimated user-story days (per developer) (after the poker game). For example 70
+A1 = actual required  (per developer) days. For example 100 working days
+V1 = velocity in iteration-1
+E1 / v1 = A1, or A1 * v1 = E1, or E1 / A1 = V1
+
+From iteration-1 we finished E2 (ideal estimated days). Assuming we spent A1 working days (per developer) we will get
+A1 = E1 / V1 = E2 / V2, then V2 = E2/E1 * V1,
+for example, E2 = 60, then V2 = (60/70) * 0.7 = 0.6
+
+#### Calculation of actual velocity:
+* E1 = Estimated user-story days (per developer) (after the poker game) = 40 days
+* A1 = Actual required days (per developer) = 40 working days
+* V1 = Initial assumed first pass velocity in iteration-1 (explanation in [initial_iteration_plan](./initial_iteration_plan)) = 1.0
+
+
+* E2 = 10 days
+* V2 = E2 / E1 * V1 = 10 / 40 * 1 = 0.25
