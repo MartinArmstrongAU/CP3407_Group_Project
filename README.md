@@ -1,8 +1,5 @@
 # CP3407 - Project - Team Misfortune
 
-This is a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
-
 ## How to edit this [You may delete this before submitting]
 
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
