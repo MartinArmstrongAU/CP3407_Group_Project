@@ -59,7 +59,7 @@ end date of our iteration-2 and the due date of our entire project as well.
 Checklist/TODOs: 
 - [x] Update the following during each week prac session - DONE
 - [x] User stories are still correct: see p39 - DONE
-- [x] Create an [iteration plan](./iteration_2_plan) for iteration 2 - DONE
+- [x] Create an [updated iteration plan](./iteration_2_plan) for iteration 2 - DONE
 - [x] Create a GitHub project (kanban) board for iteration-2 - DONE
 - [x] Mark all new/updated user stories as "todo" - DONE
 - [x] Update this README file - DONE
