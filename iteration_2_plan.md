@@ -20,7 +20,7 @@ she will contribute about 30% which is why we increased the initial velocity by 
 3. - [x] [User Story 21:](./user_stories/user_story_21.md)
 (Title: Create an Account - as a Customer) (Priority: 20) (Estimate: 3 days) - DONE
 
-## First Iteration - Incomplete/Unfinished User Stories:
+## First Iteration - Uncompleted/Unfinished User Stories:
 4. - [ ] [User Story 23:](./user_stories/user_story_23.md)
 (Title: View Cleaner Profiles - as a Customer) (Priority: 10) (Estimate: 4 days) - TODO
 5. - [ ] [User Story 12:](./user_stories/user_story_12.md)
