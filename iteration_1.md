@@ -1,19 +1,24 @@
-# Actual iteration-1 board, (see chapters 3 and 4), add your start and end dates 
+# Actual Iteration-1 Board [duration: 5 weeks, start date: 17/02/2025, end date: 23/03/2025]
 
-Note for Dmitry. 
-- Floods at the begining of the trimester forced one of the team members to drop out of the subject.
-- A second team member has ghosted the remaining members since Week 2-3.
-- A third team member (Martin Armstrong) got hospitalized around Week 4-5 for multiple weeks + had medication that prevented clear thoughts and thus could not participate in the iteration.
-- At about the same time as Martin fell ill I, (Joshua Finch) had to attend my grandfather's funeral (will provide proof if requested/required) and thus didn't get much done for multiple weeks in a row, that being the reason for my lack of weekly prac submissions (there simply wasn't anything to report progress-wise) but completed quizs.
-A reminder that you gave me and Martin a week's extension for Iteration 1 that also pushed back the due date for Iteration 2.  
+NOTES (for Dmitry):
+* Floods at the beginning of the trimester forced one of our team members (Alex Williams) to drop out of the subject.
+* Another team member (Cobey Smith) has not communicated at all with the team since week 2 (last message on 6/2/2025).
+* Another team member (Martin Armstrong) was hospitalized at the start of Week 5 (24/02/2025) with first symptoms
+appearing in the middle of week 4 (20/02/2025) which lasted for multiple weeks until the start of week 7 (17/03/2025)
+during which time they were taking several different medications that prevented clear thoughts (resulting in a lack of 
+contributions and thus could not participate in iteration-1).
+* Another team member (Joshua Finch), had to attend their grandfather's funeral at about the same time that Martin fell
+ill (they will provide proof if requested/required) and thus didn't get much done for multiple weeks in a row, which is
+also the reason for their lack of weekly practical submissions (there simply wasn't anything to report progress-wise).
+* This is a reminder that you gave us a week-long extension for Iteration-1, also extending the end date for Iteration-2.  
 
 Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+1. - [x] GitHub entry timestamps - DONE
+2. - [x] User stories are correct: see p39 - DONE
 
-* Assumed Velocity: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+* Assumed Velocity: 1.0 (explained in [initial iteration plan](./initial_iteration_plan))
+* Number of developers: 2
+* Total estimated amount of work: 40 working days
 
 User stories or tasks (see chapter 4):
 1. [user story or task title](./user_stories/user_story_00_template.md), priority XX, YY days 
@@ -39,12 +44,15 @@ Completed:
 * User Story 01: (Title: Create Company Profile - as a Cleaning Business) (Joshua Finch), date completed: 23/03/2025
 
 ### Burn Down for iteration-1 (see chapter 4):
-Update this at least once per week
-* 4 weeks left, 40 days of estimated amount of work 
-* 2 weeks left, 40 days
-* 1 weeks left, 40 days
-* 0 weeks left, 30 days
-* Actual Velocity: ?? 
+Update this at least once per week:
+* 5 weeks left, 40 days of estimated amount of work left (added a 5th week because we got an extension)
+* 4 weeks left, 40 days of estimated amount of work left
+* 3 weeks left, 40 days of estimated amount of work left
+* 2 weeks left, 40 days of estimated amount of work left
+* 1 week left, 40 days of estimated amount of work left
+* 0 week/s left, 30 days of estimated amount of work left
+
+Actual Velocity: 0.25 (see below)
 
 #### How to calculate actual velocity:
 E1 = Estimated user-story days (per developer) (after the poker game). For example 70
@@ -59,8 +67,9 @@ for example, E2 = 60, then V2 = (60/70) * 0.7 = 0.6
 #### Calculation of actual velocity:
 * E1 = Estimated user-story days (per developer) (after the poker game) = 40 days
 * A1 = Actual required days (per developer) = 40 working days
-* V1 = Initial assumed first pass velocity in iteration-1 (explanation in [initial_iteration_plan](./initial_iteration_plan)) = 1.0
+* V1 = Initial assumed first pass velocity in iteration-1 (explanation in [initial iteration plan](./initial_iteration_plan)) = 1.0
 
 
 * E2 = 10 days
 * V2 = E2 / E1 * V1 = 10 / 40 * 1 = 0.25
+* Actual Velocity = 0.25
