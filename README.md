@@ -1,12 +1,12 @@
-How to edit this: test-2025
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on GitHub. Then any local repo copies will need to be "updated".
-
-
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
+# CP3407 - Project - Team Misfortune
 
 This is a project assignment template for CP3407. 
 The following is the list of items, which are required to be completed.
+
+## How to edit this [You may delete this before submitting]
+
+* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
+* Option-2 (tested ok): Edit and commit it directly on GitHub. Then any local repo copies will need to be "updated".
 
 ## How to submit [You may delete this before submitting]
 
@@ -17,9 +17,8 @@ The following is the list of items, which are required to be completed.
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.
-1. Joshua Finch - https://github.com/JoshuaFinch27
+1. Joshua Finch - joshua.finch@my.jcu.edu.au - https://github.com/JoshuaFinch27
 2. Martin Armstrong - martin.armstrong@my.jcu.edu.au - https://github.com/MartinArmstrongAU
-3. Name 3
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
@@ -41,6 +40,7 @@ Total: 146 working days
 * Goal is to have 2 iterations during a trimester of teaching.
 * Update the following during each week prac session
 * During practicals, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
+* Link to our [CP3407 Group Project - Kanban Board - Iteration 1](https://github.com/users/MartinArmstrongAU/projects/11)
 
 1. - [x] [Create Cleaner Profile (as an Individual Cleaner)](./user_stories/user_story_11.md), (priority 10), (3 days)
 2. - [x] [Create Company Profile (as a Cleaning Business)](./user_stories/user_story_01.md), (priority 20), (4 days)
@@ -56,25 +56,33 @@ Total: 146 working days
 * Completed Total: 10 working days
 * NOTE: This is a reminder that you (Dmitry Konovalov) gave us an extension for this project (due to unforeseen extreme
 circumstances) which changed our iteration-1 duration from 4 weeks to 5 weeks and also subsequently pushed back both the
-end date (of our iteration-2) and due date of our entire project as well.
+end date of our iteration-2 and the due date of our entire project as well.
 
 # Project planning AFTER iteration-1 and BEFORE iteration-2
 Checklist/TODOs: 
-- [ ] Update the following during each week prac session - TODO
-- [ ] User stories are still correct: see p39 - TODO
-- [ ] Create an [iteration plan](./iteration_2_plan) for iteration 2 - TODO
-- [ ] Create a GitHub project (kanban) board for iteration-2 - TODO
-- [ ] Mark all new/updated user stories as "todo" - TODO
-- [ ] Update this README file - TODO
+- [x] Update the following during each week prac session - DONE
+- [x] User stories are still correct: see p39 - DONE
+- [x] Create an [iteration plan](./iteration_2_plan) for iteration 2 - DONE
+- [x] Create a GitHub project (kanban) board for iteration-2 - DONE
+- [x] Mark all new/updated user stories as "todo" - DONE
+- [x] Update this README file - DONE
 
 Total: 136 working days remaining
 
-## Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_00_template.md), priority XX, YY days 
-2. ...
+## Iteration 2 [duration: 4 weeks, start date: 25/03/2025, end date: 21/04/2025]
 
-Total: YY days
+* Goal is to have 2 iterations during a trimester of teaching.
+* Update the following during each week prac session
+* During practicals, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
+* Link to our [CP3407 Group Project - Kanban Board - Iteration 2](https://github.com/users/MartinArmstrongAU/projects/12)
+
+1. - [x] [View Cleaner Profiles (as a Customer)](./user_stories/user_story_23.md), (priority 10), (4 days)
+2. - [ ] [Receive Booking Requests (as a Cleaning Business)](./user_stories/user_story_05.md), (priority 10), (6 days)
+
+* Planned Total: 10 working days  
+* Completed Total: YY working days
+* NOTE: This is a reminder that you (Dmitry Konovalov) gave us an extension for this project (due to unforeseen extreme
+circumstances) which pushed back both the end date of our iteration-2 and the due date of our entire project as well.
 
 ### Not enough time/developers: 
 1. [user story title](./user_stories/user_story_00_template.md), priority XX, YY days 
