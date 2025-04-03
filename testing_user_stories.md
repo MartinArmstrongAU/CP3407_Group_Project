@@ -1,5 +1,5 @@
 # Page is for showing proof of tests for each completed user story 
-
+![image alt]()
 ## Iteration 1:
 
 - User Story 21: Create Cleaner Profile - as an Individual Cleaner
@@ -8,9 +8,9 @@ Implemented solution does not use developer written code, but instead uses a sta
 form of two screenshots: the first being the view of the user's account that a new cleaner would see when newly signed in for the first time,
 while the second is of an empty (un-customised) cleaner's profile.
 
-<<INSERT SCREENSHOT 1 HERE>>
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash1%20website%20account%20info.JPG)
 
-<<INSERT SCREENSHOT 2 HERE>>
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash2%20website%20profile%20page.JPG)
 
 - User Story 11: Create an Account - as a Customer
 
@@ -18,9 +18,10 @@ Implemented solution does not use developer written code, but instead uses a sta
 form of two screenshots: the first being the view that a new user would see attempting to sign in, while the second is 
 of a user signed in.
 
-<<INSERT SCREENSHOT 1 HERE>>
 
-<<INSERT SCREENSHOT 2 HERE>>
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/11dash1%20login%20attempt.JPG)
+
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/11dash2%20logged%20in%20user.JPG)
 
 - User Story 1: Create Company Profile - as a Cleaning Business
 
@@ -28,9 +29,9 @@ Implemented solution does not use developer written code, but instead uses a sta
 form of two screenshots: the first being the view of the user's account that a new business would see when newly signed in for the first time,
 while the second is of an empty (un-customised) business' profile.
 
-<<INSERT SCREENSHOT 1 HERE>>
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash1%20website%20account%20info.JPG)
 
-<<INSERT SCREENSHOT 2 HERE>>
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash2%20website%20profile%20page.JPG)
 
 ## Iteration 2:
 
@@ -42,11 +43,15 @@ make and show the database, but leaves the Wix profile and login Module in place
 pending use of paid features. Proof of completion is two screenshots showing the back-end database and the front-end
 page visible to users.
 
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/23dash1%20backend%20of%20member%20roles.JPG)
+
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/23dash2%20find%20a%20cleaner%20page.JPG)
+
 - User Story 5: Receive Booking Requests - as a Cleaning Business
 
+<<INSERT SCREENSHOT 1 HERE>>
+![image alt]()
 <<INSERT SCREENSHOT 2 HERE>>
-
-<<INSERT SCREENSHOT 2 HERE>>
-
+![image alt]()
 Not completed yet.
 
