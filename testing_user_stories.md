@@ -5,7 +5,7 @@
 - User Story 21: Create Cleaner Profile - as an Individual Cleaner
 
 Implemented solution does not use developer written code, but instead uses a standard, free Wix module. Proof is in the
-form of two screenshots: the first being the view that a new cleaner would see when newly signed in for the first time,
+form of two screenshots: the first being the view of the user's account that a new cleaner would see when newly signed in for the first time,
 while the second is of an empty (un-customised) cleaner's profile.
 
 <<INSERT SCREENSHOT 1 HERE>>
@@ -25,7 +25,7 @@ of a user signed in.
 - User Story 1: Create Company Profile - as a Cleaning Business
 
 Implemented solution does not use developer written code, but instead uses a standard, free Wix module. Proof is in the
-form of two screenshots: the first being the view that a new business would see when newly signed in for the first time,
+form of two screenshots: the first being the view of the user's account that a new business would see when newly signed in for the first time,
 while the second is of an empty (un-customised) business' profile.
 
 <<INSERT SCREENSHOT 1 HERE>>
