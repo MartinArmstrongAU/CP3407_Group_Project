@@ -18,9 +18,9 @@ Current Estimation: 3 days (estimated after removing assumptions before iteratio
 Description-v1: As a customer, I want to create an account so that I can manage my cleaning service bookings.
 
 ## Tasks, see chapter 4.
-Task 1: Implement login and sign up features and required functionality using Wix Studio's module. Estimation <1 day.  
-Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members. Estimation <1 day.  
-Task 3. Create initial accounts to test features + provide examples for client. Estimation <1 day.
+Task 1: Implement login and sign up features and required functionality using Wix Studio's module. Estimation = 1 day.  
+Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members. Estimation = 1 day.  
+Task 3: Create initial accounts to test features + provide examples for client. Estimation = 1 day.
 
 ## UI Design:
 ![image alt](../images/mockup_sign_up.JPG)

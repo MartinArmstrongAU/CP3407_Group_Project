@@ -19,10 +19,10 @@ Description-v1: As a customer, I want to view cleaner profiles with ratings and 
 
 ## Tasks, see chapter 4.
 Task 1: Create a Database Collection and add relevant fields such as;
-Cleaner ID, Cleaner Name, Location, Ratings, Cleaner Photo, Availability, Biography, Services, Reviews, and User ID. Estimation 1 day.  
-Task 2: Create a Dynamic Page and link it to the Database Collection. Estimation 1 day.  
-Task 3: Design the Dynamic Page and use in-built elements. Estimation 1 day.   
-Task 4: Add a Cleaner Directory Page and use a repeater or gallery element. Estimation 1 day.   
+Cleaner ID, Cleaner Name, Location, Ratings, Cleaner Photo, Availability, Biography, Services, Reviews, and User ID. Estimation = 1 day.  
+Task 2: Create a Dynamic Page and link it to the Database Collection. Estimation = 1 day.  
+Task 3: Design the Dynamic Page and use in-built elements. Estimation = 1 day.  
+Task 4: Add a Cleaner Directory Page and use a repeater or gallery element. Estimation = 1 day.  
 Note: The free version of Wix Studio does not allow users to utilize the details in their personal profiles as database entries.
 
 ## UI Design:
