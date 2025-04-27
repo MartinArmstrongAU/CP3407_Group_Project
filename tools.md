@@ -39,6 +39,11 @@ ChatGPT was used to assist the developers in:
 - Aiding developers to learn how to use the chosen IDE (Wix Studio) by outlining what was possible (NOTE: It took a lot of effort to refine queries that remembered that the free version of Wix Studio couldn't do certain
 things).
 
-
 - Example:
+
 ![image alt](./images/example_of_ai_use.JPG)
+
+## Gliffy, Genmymodel & Ninjamock
+These three programs were utilised to provide proof of architectual, database and interface design elements of the 
+project's development. Ninjamock was used to prototype wireframes before the ideas were implemented in the IDE and was used primarity (but not entierly) by team member Joshua Finch. While Gliffy and Genmymodel were used 
+specifically to show how the website utilised databases and was used by team member Martin Armstrong due to his familiarity on the website's database.
