@@ -1,6 +1,6 @@
 # Actual Iteration-1 Board [duration: 5 weeks, start date: 17/02/2025, end date: 23/03/2025]
 
-NOTES (for Dmitry):
+## NOTES (for Dmitry):
 * Floods at the beginning of the trimester forced one of our team members (Alex Williams) to drop out of the subject.
 * Another team member (Cobey Smith) has not communicated at all with the team since week 2 (last message on 6/2/2025).
 * Another team member (Martin Armstrong) was hospitalized at the start of Week 5 (24/02/2025) with first symptoms
@@ -12,7 +12,7 @@ ill (they will provide proof if requested/required) and thus didn't get much don
 also the reason for their lack of weekly practical submissions (there simply wasn't anything to report progress-wise).
 * This is a reminder that you gave us a week-long extension for Iteration-1, also extending the end date for Iteration-2.  
 
-Checklist: 
+## Checklist: 
 1. - [x] GitHub entry timestamps - DONE
 2. - [x] User stories are correct: see p39 - DONE
 
@@ -20,28 +20,47 @@ Checklist:
 * Number of developers: 2
 * Total estimated amount of work: 40 working days
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_00_template.md), priority XX, YY days 
-- User Story 21:
+## User stories or tasks (see chapter 4):
+1. [User Story 11: Create Cleaner Profile (as an Individual Cleaner)](./user_stories/user_story_11.md), (priority 10), (3 days)
+  * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
+  * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+
+2. [User Story 01: Create Company Profile (as a Cleaning Business)](./user_stories/user_story_01.md), (priority 20), (4 days)
+  * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
+    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+
+3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (priority 20), (3 days)
   * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
   * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members
   * Task 3. Create initial accounts to test features + provide examples for client.
-- User Story 11: 
+
+### In progress:
+1. [User Story 11: Create Cleaner Profile (as an Individual Cleaner)](./user_stories/user_story_11.md), (Joshua Finch), date started: ??/??/2025
   * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
   * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
-- User Story 01:
+
+2. [User Story 01: Create Company Profile (as a Cleaning Business)](./user_stories/user_story_01.md), (Joshua Finch), date started: ??/??/2025
   * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
-    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated 
-    cleaners).
+    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
 
-In progress:
-* ...
-* ...
+3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (Joshua Finch), date started: ??/??/2025
+  * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
+  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members
+  * Task 3. Create initial accounts to test features + provide examples for client.
 
-Completed:
-* User Story 11: (Title: Create Cleaner Profile - as an Individual Cleaner) (Joshua Finch), date completed: 23/03/2025
-* User Story 21: (Title: Create an Account - as a Customer) (Joshua Finch), date completed: 23/03/2025
-* User Story 01: (Title: Create Company Profile - as a Cleaning Business) (Joshua Finch), date completed: 23/03/2025
+### Completed:
+1. [User Story 11: Create Cleaner Profile (as an Individual Cleaner)](./user_stories/user_story_11.md), (Joshua Finch), date completed: 23/03/2025
+  * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
+  * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+
+2. [User Story 01: Create Company Profile (as a Cleaning Business)](./user_stories/user_story_01.md), (Joshua Finch), date completed: 23/03/2025
+  * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
+    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+
+3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (Joshua Finch), date completed: 23/03/2025
+  * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
+  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members
+  * Task 3. Create initial accounts to test features + provide examples for client.
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week:
@@ -56,7 +75,7 @@ Actual Velocity: 0.25 (see below)
 
 #### How to calculate actual velocity:
 E1 = Estimated user-story days (per developer) (after the poker game). For example 70
-A1 = actual required  (per developer) days. For example 100 working days
+A1 = actual required (per developer) days. For example 100 working days
 V1 = velocity in iteration-1
 E1 / v1 = A1, or A1 * v1 = E1, or E1 / A1 = V1
 
