@@ -62,37 +62,37 @@ in our iteration * our team's actual velocity (calculated in [Iteration-1](./ite
 (Title: Chat With Cleaners - as a Customer) (Priority: 20) (Estimate: 3 days) - TODO
 
 ## Second Iteration - Revised Plan (20 calendar days = 10 working days):
-1. - [ ] [User Story 23:](./user_stories/user_story_23.md)
-(Title: View Cleaner Profiles - as a Customer) (Priority: 10) (Estimate: 4 days) - TODO
-2. - [ ] [User Story 05:](./user_stories/user_story_05.md)
-(Title: Receive Booking Requests - as a Cleaning Business) (Priority: 10) (Estimate: 6 days) - TODO
+1. - [x] [User Story 23:](./user_stories/user_story_23.md)
+(Title: View Cleaner Profiles - as a Customer) (Priority: 10) (Estimate: 4 days) - DONE
+2. - [x] [User Story 05:](./user_stories/user_story_05.md)
+(Title: Receive Booking Requests - as a Cleaning Business) (Priority: 10) (Estimate: 6 days) - DONE
 
 ***
 
 ## Future Iteration/s (leftover user stories = 126 working days):
-* -  [ ] [User Story 12:](./user_stories/user_story_12.md)
+* - [ ] [User Story 12:](./user_stories/user_story_12.md)
 (Title: Set Availability - as an Individual Cleaner) (Priority: 10) (Estimate: 3 days) - TODO
-* -  [ ] [User Story 24:](./user_stories/user_story_24.md)
+* - [ ] [User Story 24:](./user_stories/user_story_24.md)
 (Title: Book Cleaning Service - as a Customer) (Priority: 10) (Estimate: 7 days) - TODO
-* -  [ ] [User Story 13:](./user_stories/user_story_13.md)
+* - [ ] [User Story 13:](./user_stories/user_story_13.md)
 (Title: Respond to Booking Requests - as an Individual Cleaner) (Priority: 10) (Estimate: 4 days) - TODO
-* -  [ ] [User Story 22:](./user_stories/user_story_22.md)
+* - [ ] [User Story 22:](./user_stories/user_story_22.md)
 (Title: Search for Cleaners - as a Customer) (Priority: 10) (Estimate: 6 days) - TODO
-* -  [ ] [User Story 02:](./user_stories/user_story_02.md)
+* - [ ] [User Story 02:](./user_stories/user_story_02.md)
 (Title: Manage Multiple Cleaners - as a Cleaning Business) (Priority: 10) (Estimate: 6 days) - TODO
-* -  [ ] [User Story 06:](./user_stories/user_story_06.md)
+* - [ ] [User Story 06:](./user_stories/user_story_06.md)
 (Title: Track Cleaners' Schedules - as a Cleaning Business) (Priority: 10) (Estimate: 8 days) - TODO
-* -  [ ] [User Story 19:](./user_stories/user_story_19.md)
+* - [ ] [User Story 19:](./user_stories/user_story_19.md)
 (Title: See Payment History - as an Individual Cleaner) (Priority: 10) (Estimate: 5 days) - TODO
-* -  [ ] [User Story 15:](./user_stories/user_story_15.md)
+* - [ ] [User Story 15:](./user_stories/user_story_15.md)
 (Title: Track Jobs - as an Individual Cleaner) (Priority: 20) (Estimate: 5 days) - TODO
-* -  [ ] [User Story 14:](./user_stories/user_story_14.md)
+* - [ ] [User Story 14:](./user_stories/user_story_14.md)
 (Title: Receive Notifications - as an Individual Cleaner) (Priority: 20) (Estimate: 5 days) - TODO
-* -  [ ] [User Story 04:](./user_stories/user_story_04.md)
+* - [ ] [User Story 04:](./user_stories/user_story_04.md)
 (Title: Manage Availability - as a Cleaning Business) (Priority: 20) (Estimate: 2 days) - TODO
-* -  [ ] [User Story 29:](./user_stories/user_story_29.md)
+* - [ ] [User Story 29:](./user_stories/user_story_29.md)
 (Title: Make Online Payments - as a Customer) (Priority: 20) (Estimate: 6 days) - TODO
-* -  [ ] [User Story 28:](./user_stories/user_story_28.md)
+* - [ ] [User Story 28:](./user_stories/user_story_28.md)
 (Title: Chat With Cleaners - as a Customer) (Priority: 20) (Estimate: 3 days) - TODO
 * - [ ] [User Story 08:](./user_stories/user_story_08.md)
 (Title: Communicate With Customers - as a Cleaning Business) (Priority: 20) (Estimate: 6 days) - TODO
