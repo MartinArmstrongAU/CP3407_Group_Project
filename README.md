@@ -110,6 +110,14 @@ circumstances) which pushed back both the end date of our iteration-2 and the du
 
 Total: 126 working days remaining
 
+
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
 2. [Iteration-2](./iteration_2.md)
+
+
+# Additional pages
+* [Major components design](./design.md)
+* [Solution implementation](./implementation.md)
+* [Components testing](./testing.md)
+* [Building and development tools](./tools.md)
