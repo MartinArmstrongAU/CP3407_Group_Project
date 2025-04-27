@@ -50,5 +50,5 @@ NinjaMock was used to prototype wireframes before the ideas were implemented in 
 (but not entirely) by team member Joshua Finch. 
 
 MySQL was used specifically to show how the website utilised databases. It was used by team member Martin Armstrong due 
-to his familiarity with the website's database. While Genmymodel (a tool for database design) was recommended to be used, 
+to his familiarity with the website's database. While GenMyModel (a tool for database design) was recommended to be used, 
 it was found to no longer be available and was thus replaced with MySQL.
