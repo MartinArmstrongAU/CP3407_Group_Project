@@ -49,9 +49,10 @@ page visible to users.
 
 - User Story 5: Receive Booking Requests - as a Cleaning Business
 
-<<INSERT SCREENSHOT 1 HERE>>
-![image alt]()
-<<INSERT SCREENSHOT 2 HERE>>
-![image alt]()
-Not completed yet.
+User story was not well put together due to the fact that: A) to recieve booking requests, the entire booking system is needed to be implemented B) the implemented solution for User Story 23 could not easily be integrated with the Wix Studio Booking process and C) the free version of Wix Studio prevents online booking from being functional, leaving only backend (the services listed) and the frontend service selection screen visible. The first image is of the frontend service selection while the second is of the backend where the MyClean staff would add more and edit existing services of partnered cleaners.
+
+
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/27e95b9e562982623c61c9b34b3c8fe757c0fa13/images/5dash1%20booking%20frontend.JPG)
+
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/d23d365409358cb0abfbbacc5ee42408f501485d/images/5dash2%20booking%20backend.JPG)
 
