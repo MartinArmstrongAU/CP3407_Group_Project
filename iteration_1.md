@@ -22,45 +22,54 @@ also the reason for their lack of weekly practical submissions (there simply was
 
 ## User stories or tasks (see chapter 4):
 1. [User Story 11: Create Cleaner Profile (as an Individual Cleaner)](./user_stories/user_story_11.md), (priority 10), (3 days)
-  * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
-  * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+   * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
+   * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+
 
 2. [User Story 01: Create Company Profile (as a Cleaning Business)](./user_stories/user_story_01.md), (priority 20), (4 days)
-  * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
-    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+   * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
+     means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+
 
 3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (priority 20), (3 days)
-  * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
-  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
-  * Task 3: Create initial accounts to test features + provide examples for client.
+   * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
+   * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
+   * Task 3: Create initial accounts to test features + provide examples for client.
+
 
 ### In progress:
 1. [User Story 11: Create Cleaner Profile (as an Individual Cleaner)](./user_stories/user_story_11.md), (Joshua Finch), date started: 13/03/2025
-  * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
-  * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+   * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
+   * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+
 
 2. [User Story 01: Create Company Profile (as a Cleaning Business)](./user_stories/user_story_01.md), (Joshua Finch), date started: 13/03/2025
-  * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
-    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+   * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
+     means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+
 
 3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (Joshua Finch), date started: 13/03/2025
-  * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
-  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
-  * Task 3: Create initial accounts to test features + provide examples for client.
+   * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
+   * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
+   * Task 3: Create initial accounts to test features + provide examples for client.
+
 
 ### Completed:
 1. [User Story 11: Create Cleaner Profile (as an Individual Cleaner)](./user_stories/user_story_11.md), (Joshua Finch), date completed: 23/03/2025
-  * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
-  * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+   * Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in.
+   * Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types.
+
 
 2. [User Story 01: Create Company Profile (as a Cleaning Business)](./user_stories/user_story_01.md), (Joshua Finch), date completed: 23/03/2025
-  * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
-    means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+   * Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that
+     means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners).
+
 
 3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (Joshua Finch), date completed: 23/03/2025
-  * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
-  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
-  * Task 3: Create initial accounts to test features + provide examples for client.
+   * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
+   * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
+   * Task 3: Create initial accounts to test features + provide examples for client.
+
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week:
