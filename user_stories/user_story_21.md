@@ -26,7 +26,8 @@ Task 3. Create initial accounts to test features + provide examples for client. 
 ![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20sign%20up.JPG)
 ![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20login.JPG)
 
+
+
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iterations), show them all.
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6b494e8a2850313930edf9dea0e7553d33d8dccc/images/11dash1%20login%20attempt.JPG)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6b494e8a2850313930edf9dea0e7553d33d8dccc/images/23dash1%20backend%20of%20member%20roles.JPG)
