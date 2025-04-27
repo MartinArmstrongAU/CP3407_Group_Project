@@ -29,5 +29,6 @@ Note: The free version of Wix Studio does not allow users to utilize the details
 ![image alt](../images/mockup_cleaner_profiles.jpg)
 
 ## Completed:
-![image alt](../images/mockup_cleaner_profiles.jpg)
-![image alt](../images/mockup_cleaner_profiles.jpg)
+![image alt](../images/23dash1_backend_of_member_roles.JPG)
+![image alt](../images/23dash2_find_a_cleaner_page.JPG)
+![image alt](../images/23dash3_view_a_cleaner_profile_page.jpg)
