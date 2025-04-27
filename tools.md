@@ -17,11 +17,28 @@ to be effectively wasted effort without spending money to unlock those features.
 Due to time, fiscal and manpower constraints these problems were not able to be surmounted either through switching to a different IDE, paying the fee or through coding and testing said code ourselves.
 
 ## GitHub
+Github was used due to the specified assignment requirements for a file sharing platform to hold all of our projects documentation history. throught the assignment all active (Martin and Joshua) team members have made extensive use of this tool.
 
 ## GitHub Projects
+During this assignemnt there was a need for team members to easily find out which team member was assigned to what task/userstory and where that task was at. Due to the required use of GitHub as a documentation repository, 
+it was decided that the team would use GitHub Projects for this role instead of another popular tool, Jira due to the ability to tie both GitHub and Projects together. Both team members successfully used this function to 
+keep track of all user stories that were completed.
 
 ## Discord
+Due to the personal preferences of all members of the developer team, the communications method was unanimously chosen to be Discord over alternatives such as Slack. This allowed all members to easily share information on
+their progress and any potential issues they encountered. 
 
 ## PyCharm
+While some actions (such as adding images to .md files) were easier to perform through GitHub directly. The majority of the work on the project's documentation was performed using PyCharm to host local versions of the 
+project. This allowed for members to avoid potentially overwriting another member's commits. PyCharm was chosen over Visual Studio Code due to both team preferences and recommendations from lecturers.
 
 ## ChatGPT
+ChatGPT was used to assist the developers in:
+
+- Comparing popular IDE's to help decide which IDE to use to construct the website and
+- Aiding developers to learn how to use the chosen IDE (Wix Studio) by outlining what was possible (NOTE: It took a lot of effort to refine queries that remembered that the free version of Wix Studio couldn't do certain
+things).
+
+- Example:
+
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/0d53ed5259dac49163ff1313bb8cb9896787666e/images/example%20of%20ai%20use.JPG)
