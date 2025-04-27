@@ -23,11 +23,10 @@ Task 2: (Links to later user stories) Add specific sections that are only visibl
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20login.JPG)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6a316481f41a2c48d47d80c49cab81e85ff0f4a4/images/mockup%20profile.JPG)
+
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iterations), show them all.
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/62053c31b9db86194a4149b4bc4875fa5643a5db/images/21and1dash2%20website%20profile%20page.JPG)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6b494e8a2850313930edf9dea0e7553d33d8dccc/images/21and1dash1%20website%20account%20info.JPG)
