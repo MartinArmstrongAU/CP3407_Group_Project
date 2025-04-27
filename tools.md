@@ -1,5 +1,6 @@
 # Tools Used for the Completion of this Assignment
 ![image alt]()
+
 ## Wix Studio
 To create the website for this assignment our team chose to use the Wix Studio IDE instead of competitors such as the regular Wix Editor, Squarespace and Weebly due to the fact that it offered the ability to create websites
 without the need to code and the fact that it had a widely recommended free version that allowed multiple people to work on the same project/website without requiring extensive setup or an increase in cost.
@@ -39,6 +40,6 @@ ChatGPT was used to assist the developers in:
 - Aiding developers to learn how to use the chosen IDE (Wix Studio) by outlining what was possible (NOTE: It took a lot of effort to refine queries that remembered that the free version of Wix Studio couldn't do certain
 things).
 
-- Example:
 
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/0d53ed5259dac49163ff1313bb8cb9896787666e/images/example%20of%20ai%20use.JPG)
+- Example:
+![image alt](./images/example_of_ai_use.JPG)
