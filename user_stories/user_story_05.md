@@ -26,8 +26,8 @@ Task 4: Customise the individual services offered (from example partnered cleane
 Note: Free version of Wix Studio does not allow access to full functionallity for online booking.
 
 ## UI Design
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/73fadf6a90b02be2fc3f224122a96438b6a720d7/images/mockup%20booking%20services.JPG)
+![image alt](../images/mockup_booking_services.JPG)
 
 ## Completed
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/73fadf6a90b02be2fc3f224122a96438b6a720d7/images/5dash1%20booking%20frontend.JPG)
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/73fadf6a90b02be2fc3f224122a96438b6a720d7/images/5dash2%20booking%20backend.JPG)
+![image alt](../images/5dash1_booking_frontend.JPG)
+![image alt](../images/5dash2_booking_backend.JPG)

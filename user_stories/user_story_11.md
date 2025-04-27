@@ -21,12 +21,10 @@ Description-v1: As an individual cleaner, I want to create a personal profile wi
 Task 1: Implement a basic and user-specific, customisable profile page gated behind a user logging in. Estimation 1 day.
 Task 2: (Links to later user stories) Add specific sections that are only visible for other users if they are registered as specific member types. Estimation 1 day.
 
+## UI Design:
+![image alt](../images/mockup_login.JPG)
+![image alt](../images/mockup_profile.JPG)
 
-# UI Design:
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20login.JPG)
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6a316481f41a2c48d47d80c49cab81e85ff0f4a4/images/mockup%20profile.JPG)
-
-
-# Completed:
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/62053c31b9db86194a4149b4bc4875fa5643a5db/images/21and1dash2%20website%20profile%20page.JPG)
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6b494e8a2850313930edf9dea0e7553d33d8dccc/images/21and1dash1%20website%20account%20info.JPG)
+## Completed:
+![image alt](../images/21and1dash1_website_account_info.JPG)
+![image alt](../images/21and1dash2_website_profile_page.JPG)

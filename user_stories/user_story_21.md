@@ -22,12 +22,10 @@ Task 1: Implement login and sign up features and required functionality using Wi
 Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members. Estimation <1 day.
 Task 3. Create initial accounts to test features + provide examples for client. Estimation <1 day.
 
-# UI Design:
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20sign%20up.JPG)
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20login.JPG)
+## UI Design:
+![image alt](../images/mockup_sign_up.JPG)
+![image alt](../images/mockup_login.JPG)
 
-
-
-# Completed:
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6b494e8a2850313930edf9dea0e7553d33d8dccc/images/11dash1%20login%20attempt.JPG)
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6b494e8a2850313930edf9dea0e7553d33d8dccc/images/23dash1%20backend%20of%20member%20roles.JPG)
+## Completed:
+![image alt](../images/11dash1_login_attempt.JPG)
+![image alt](../images/23dash1_backend_of_member_roles.JPG)

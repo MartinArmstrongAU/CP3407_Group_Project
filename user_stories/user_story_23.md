@@ -25,10 +25,10 @@ Task 3: Design the Dynamic Page and use in-built elements.
 Task 4: Add a Cleaner Directory Page and use a repeater or gallery element.  
 Note: The free version of Wix Studio does not allow users to utilize the details in their personal profiles as database entries.
 
-# UI Design:
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/main/images/mockup%20cleaner%20profiles.jpg)
-![image alt](../images/mockup%20cleaner%20profiles.jpg)
-# Completed:
+## UI Design:
+![image alt](../images/mockup_cleaner_profiles.jpg)
+
+## Completed:
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iterations), show them all.
