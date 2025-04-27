@@ -1,16 +1,5 @@
 # CP3407 - Project - Team Misfortune
 
-## How to edit this [You may delete this before submitting]
-
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on GitHub. Then any local repo copies will need to be "updated".
-
-## How to submit [You may delete this before submitting]
-
-- [x] Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on GitHub - DONE
-- [x] Submit link to your repository - DONE
-- [x] Download your GitHub repository as a zip file and submit via LearnJCU. - DONE
-
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.
@@ -54,6 +43,7 @@ Total: 146 working days
 * NOTE: This is a reminder that you (Dmitry Konovalov) gave us an extension for this project (due to unforeseen extreme
 circumstances) which changed our iteration-1 duration from 4 weeks to 5 weeks and also subsequently pushed back both the
 end date of our iteration-2 and the due date of our entire project as well.
+
 
 # Project planning AFTER iteration-1 and BEFORE iteration-2
 Checklist/TODOs: 
