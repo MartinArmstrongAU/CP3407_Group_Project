@@ -23,11 +23,7 @@ Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't a
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/6cc7f2d638767884c4f2fa69c32c6f5c9251bcc5/images/mockup%20profile.JPG)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iterations), show them all.
+MERGED WITH USER STORY 11 - IS DEFUNCT
