@@ -1,5 +1,5 @@
 # Page is for showing proof of tests for each completed user story 
-![image alt]()
+
 ## Iteration 1:
 
 - User Story 21: Create Cleaner Profile - as an Individual Cleaner
