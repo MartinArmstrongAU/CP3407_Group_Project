@@ -17,3 +17,11 @@ Current Estimation: 6 days (estimated after removing assumptions before iteratio
 
 ## Description: As a cleaning business, I want to receive booking requests and assign them to my cleaners so that I can streamline operations.
 Description-v1: As a cleaning business, I want to receive booking requests and assign them to my cleaners so that I can streamline operations.
+
+## Tasks:
+Task 1: Research potential ways for completing user story
+Task 2: Decide on method (method chosen was to use in-built components)
+Task 3: Add components to website and connect them to the menubar for accessibility
+Task 4: Customise the individual services offered (from example partnered cleaners) using the backend systems
+Note: Free version of Wix Studio does not allow access to full functionallity for online booking.
+
