@@ -43,7 +43,12 @@ things).
 
 ![image alt](./images/example_of_ai_use.JPG)
 
-## Gliffy, MySQL & Ninjamock
-These three programs were utilised to provide proof of architectural, database and interface design elements used in the project's development. Ninjamock was used to prototype wireframes before the ideas were implemented in the IDE and was used primarily (but not entirely) by team member Joshua Finch. While Gliffy and MySQL were used specifically to show how the website utilised databases and was used by team member Martin Armstrong due to his familiarity with the website's database. While it was recommended to be used, Genmymodel - a tool for database design was found to no longer be available and was thus replaced with MySQL,
+## MySQL & NinjaMock
+These two programs were utilised to provide proof of database and interface design elements used in the project's development. 
 
-EDIT: Gliffy is being problomatic/not functioning and due to the lack of coding done in this project (which Gliffy focuses on) and lack of time to get it to work it is not going to be used. Martin will explain more in that section (design.md).
+NinjaMock was used to prototype wireframes before the ideas were implemented in the IDE. It was used primarily 
+(but not entirely) by team member Joshua Finch. 
+
+MySQL was used specifically to show how the website utilised databases. It was used by team member Martin Armstrong due 
+to his familiarity with the website's database. While Genmymodel (a tool for database design) was recommended to be used, 
+it was found to no longer be available and was thus replaced with MySQL.
