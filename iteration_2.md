@@ -1,29 +1,54 @@
-# Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
+# Actual Iteration-2 Board [duration: 4 weeks, start date: 25/03/2025, end date: 21/04/2025]
 
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+## NOTE (for Dmitry):
+* This is a reminder that you gave us a week-long extension for the end date of Iteration-2, as a result of giving us a
+week-long extension for Iteration-1 (which extended the end date for both Iteration-1 and Iteration-2).
 
-* Assumed Velocity FROM iteration-1: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+## Checklist: 
+1. - [x] GitHub entry timestamps - DONE
+2. - [x] User stories are correct: see p39 - DONE
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_00_template.md), priority XX, YY days 
-2. ...
+* Assumed Velocity FROM [Iteration-1](./iteration_1.md): 0.25
+* Number of developers: 2
+* Total estimated amount of work: 10 working days
 
-In progress:
-* Task-2 (developer name or initials), date started
-* ...
+## User stories or tasks (see chapter 4):
+1. [User Story 23: View Cleaner Profiles (as a Customer)](./user_stories/user_story_23.md), (priority 10), (4 days)
+  * Task 1: 
 
-Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+2. [User Story 05: Receive Booking Requests (as a Cleaning Business)](./user_stories/user_story_05.md), (priority 10), (6 days)
+  * Task 1:
+
+### In progress:
+1. [User Story 23: View Cleaner Profiles (as a Customer)](./user_stories/user_story_23.md), (Martin Armstrong), date started: 25/03/2025
+  * Task 1: 
+
+2. [User Story 05: Receive Booking Requests (as a Cleaning Business)](./user_stories/user_story_05.md), (Martin Armstrong & Joshua Finch), date started: 08/04/2025
+  * Task 1:
+
+### Completed:
+1. [User Story 23: View Cleaner Profiles (as a Customer)](./user_stories/user_story_23.md), (Martin Armstrong), date completed: 06/04/2025
+  * Task 1: 
+
+2. [User Story 05: Receive Booking Requests (as a Cleaning Business)](./user_stories/user_story_05.md), (Martin Armstrong & Joshua Finch), date completed: 21/04/2025
+  * Task 1:
 
 ### Burn Down for iteration-2 (see chapter 4):
-Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+* 4 weeks left, 10 days of estimated amount of work left
+* 3 weeks left, 10 days of estimated amount of work left
+* 2 weeks left, 6 days of estimated amount of work left
+* 1 week left, 6 days of estimated amount of work left
+* 0 week/s left, 0 days of estimated amount of work left
+
+Actual Velocity: 0.25 (see below)
+
+#### How to calculate actual velocity:
+* Actual Velocity = total days of work accomplished / (number of actual working days * number of developers)
+
+#### Calculation of actual velocity:
+* Total days of work accomplished = 10 days
+* Number of actual working days = 20 days
+* Number of developers = 2
+
+
+* Actual Velocity = 10 / (20 * 2) = 10 / 40 = 0.25
