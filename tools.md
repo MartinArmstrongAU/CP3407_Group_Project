@@ -40,6 +40,7 @@ ChatGPT was used to assist the developers in:
 things).
 
 - Example:
+
 ![image alt](./images/example_of_ai_use.JPG)
 
 ## Gliffy, Genmymodel & Ninjamock
