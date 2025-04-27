@@ -23,9 +23,8 @@ Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users
 Task 3. Create initial accounts to test features + provide examples for client. Estimation <1 day.
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20sign%20up.JPG)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/acf51a09e67bd4e46a5172ae18af4f7c821b6feb/images/mockup%20login.JPG)
 
 # Completed:
 * (New, not in the textbook) 
