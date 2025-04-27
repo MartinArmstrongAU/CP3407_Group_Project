@@ -25,3 +25,9 @@ Task 3: Add components to website and connect them to the menubar for accessibil
 Task 4: Customise the individual services offered (from example partnered cleaners) using the backend systems
 Note: Free version of Wix Studio does not allow access to full functionallity for online booking.
 
+## UI Design
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/73fadf6a90b02be2fc3f224122a96438b6a720d7/images/mockup%20booking%20services.JPG)
+
+## Completed
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/73fadf6a90b02be2fc3f224122a96438b6a720d7/images/5dash1%20booking%20frontend.JPG)
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/73fadf6a90b02be2fc3f224122a96438b6a720d7/images/5dash2%20booking%20backend.JPG)
