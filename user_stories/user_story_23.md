@@ -26,9 +26,9 @@ Task 4: Add a Cleaner Directory Page and use a repeater or gallery element. Esti
 Note: The free version of Wix Studio does not allow users to utilize the details in their personal profiles as database entries.
 
 ## UI Design:
-![image alt](../images/mockup_cleaner_profiles.jpg)
+![image alt](../images/mockup_cleaner_profiles.JPG)
 
 ## Completed:
 ![image alt](../images/23dash1_backend_of_member_roles.JPG)
 ![image alt](../images/23dash2_find_a_cleaner_page.JPG)
-![image alt](../images/23dash3_view_a_cleaner_profile_page.jpg)
+![image alt](../images/23dash3_view_a_cleaner_profile_page.JPG)
