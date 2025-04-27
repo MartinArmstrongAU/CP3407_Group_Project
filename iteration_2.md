@@ -17,21 +17,33 @@ week-long extension for Iteration-1 (which extended the end date for both Iterat
   * Task 1: 
 
 2. [User Story 05: Receive Booking Requests (as a Cleaning Business)](./user_stories/user_story_05.md), (priority 10), (6 days)
-  * Task 1:
+  * Task 1: Research potential ways for completing user story
+  * Task 2: Decide on method (method chosen was to use in-built components)
+  * Task 3: Add components to website and connect them to the menubar for accessibility
+  * Task 4: Customise the individual services offered (from example partnered cleaners) using the backend systems
+  * Note: Free version of Wix Studio does not allow access to full functionallity for online booking.
 
 ### In progress:
 1. [User Story 23: View Cleaner Profiles (as a Customer)](./user_stories/user_story_23.md), (Martin Armstrong), date started: 25/03/2025
   * Task 1: 
 
 2. [User Story 05: Receive Booking Requests (as a Cleaning Business)](./user_stories/user_story_05.md), (Martin Armstrong & Joshua Finch), date started: 08/04/2025
-  * Task 1:
+  * Task 1: Research potential ways for completing user story
+  * Task 2: Decide on method (method chosen was to use in-built components)
+  * Task 3: Add components to website and connect them to the menubar for accessibility
+  * Task 4: Customise the individual services offered (from example partnered cleaners) using the backend systems
+  * Note: Free version of Wix Studio does not allow access to full functionallity for online booking.
 
 ### Completed:
 1. [User Story 23: View Cleaner Profiles (as a Customer)](./user_stories/user_story_23.md), (Martin Armstrong), date completed: 06/04/2025
   * Task 1: 
 
 2. [User Story 05: Receive Booking Requests (as a Cleaning Business)](./user_stories/user_story_05.md), (Martin Armstrong & Joshua Finch), date completed: 21/04/2025
-  * Task 1:
+  * Task 1: Research potential ways for completing user story
+  * Task 2: Decide on method (method chosen was to use in-built components)
+  * Task 3: Add components to website and connect them to the menubar for accessibility
+  * Task 4: Customise the individual services offered (from example partnered cleaners) using the backend systems
+  * Note: Free version of Wix Studio does not allow access to full functionallity for online booking.
 
 ### Burn Down for iteration-2 (see chapter 4):
 * 4 weeks left, 10 days of estimated amount of work left
