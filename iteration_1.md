@@ -31,7 +31,7 @@ also the reason for their lack of weekly practical submissions (there simply was
 
 3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (priority 20), (3 days)
   * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
-  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members
+  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
   * Task 3: Create initial accounts to test features + provide examples for client.
 
 ### In progress:
@@ -45,7 +45,7 @@ also the reason for their lack of weekly practical submissions (there simply was
 
 3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (Joshua Finch), date started: 13/03/2025
   * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
-  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members
+  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
   * Task 3: Create initial accounts to test features + provide examples for client.
 
 ### Completed:
@@ -59,7 +59,7 @@ also the reason for their lack of weekly practical submissions (there simply was
 
 3. [User Story 21: Create an Account (as a Customer)](./user_stories/user_story_21.md), (Joshua Finch), date completed: 23/03/2025
   * Task 1: Implement login and sign up features and required functionality using Wix Studio's module.
-  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members
+  * Task 2: Create multiple member types (Staff, Buisiness, Cleaner, User) for users to be sorted into by staff members.
   * Task 3: Create initial accounts to test features + provide examples for client.
 
 ### Burn Down for iteration-1 (see chapter 4):
