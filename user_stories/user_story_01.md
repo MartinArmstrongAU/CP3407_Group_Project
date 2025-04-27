@@ -19,7 +19,7 @@ Current Estimation: 4 days (estimated after removing assumptions before iteratio
 Description-v1: As a cleaning business, I want to create a company profile so that I can showcase my services and attract customers.
 
 ## Tasks, see chapter 4.
-Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners). Estimated 2 days.
+Task 1: Defunct/Folded into User Story 11 - the basic Wix login module doesn't allow multiple types of user accounts, only different permissions on page viewing. Changing that either needs payment or custom code that means throwing out ther currently uneditable Wix provided module. Essentially, Buisiness accounts will simply be mechanically the same as regular cleaner accounts, just with different content (links to affiliated cleaners). Estimation 2 days.
 
 ## UI Design:
 ![image alt](../images/mockup_profile.JPG)
