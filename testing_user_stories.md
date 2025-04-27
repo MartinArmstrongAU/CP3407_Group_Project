@@ -2,16 +2,6 @@
 
 ## Iteration 1:
 
-- User Story 21: Create Cleaner Profile - as an Individual Cleaner
-
-Implemented solution does not use developer written code, but instead uses a standard, free Wix module. Proof is in the
-form of two screenshots: the first being the view of the user's account that a new cleaner would see when newly signed in for the first time,
-while the second is of an empty (un-customised) cleaner's profile.
-
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash1%20website%20account%20info.JPG)
-
-![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash2%20website%20profile%20page.JPG)
-
 - User Story 11: Create an Account - as a Customer
 
 Implemented solution does not use developer written code, but instead uses a standard, free Wix module. Proof is in the
@@ -28,6 +18,16 @@ of a user signed in.
 Implemented solution does not use developer written code, but instead uses a standard, free Wix module. Proof is in the
 form of two screenshots: the first being the view of the user's account that a new business would see when newly signed in for the first time,
 while the second is of an empty (un-customised) business' profile.
+
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash1%20website%20account%20info.JPG)
+
+![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash2%20website%20profile%20page.JPG)
+
+- User Story 21: Create Cleaner Profile - as an Individual Cleaner
+
+Implemented solution does not use developer written code, but instead uses a standard, free Wix module. Proof is in the
+form of two screenshots: the first being the view of the user's account that a new cleaner would see when newly signed in for the first time,
+while the second is of an empty (un-customised) cleaner's profile.
 
 ![image alt](https://github.com/MartinArmstrongAU/CP3407_Group_Project/blob/71cb1faf0a914264e343c4cd0b114de52036b386/images/21and1dash1%20website%20account%20info.JPG)
 
