@@ -1,5 +1,4 @@
 # Tools Used for the Completion of this Assignment
-![image alt]()
 
 ## Wix Studio
 To create the website for this assignment our team chose to use the Wix Studio IDE instead of competitors such as the regular Wix Editor, Squarespace and Weebly due to the fact that it offered the ability to create websites
